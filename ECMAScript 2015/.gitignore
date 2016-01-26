@@ -1,0 +1,9 @@
+bin
+obj
+*.suo
+packages
+*.mdf
+*.ldf
+node_modules
+.idea
+es6/compiled
